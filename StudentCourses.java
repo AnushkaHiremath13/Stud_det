@@ -1,4 +1,4 @@
-package detailStudent;
+
 
 // File: StudentCourses.java
 public class StudentCourses {
