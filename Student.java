@@ -1,5 +1,3 @@
-package detailStudent;
-
 // File: Student.java
 import java.time.LocalDate;
 import java.time.Period;
