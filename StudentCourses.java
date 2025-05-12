@@ -1,5 +1,3 @@
-package detailStudent;
-
 // File: StudentCourses.java
 public class StudentCourses {
     private String[] semester1 = {"Math", "Physics", "Chemistry"};
